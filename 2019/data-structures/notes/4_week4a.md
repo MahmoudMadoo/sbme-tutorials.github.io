@@ -261,7 +261,7 @@ struct IntegerStack100
 {
     int buffer[ 100 ];
     int capacity = 100;
-}
+};
 ```
 
 #### Finally, let's add a variable indicating the top element
